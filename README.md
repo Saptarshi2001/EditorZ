@@ -46,23 +46,11 @@ Project Description: A text editor designed to make your workflow fast.
 
 ### Installing
 
-A step-by-step series of examples that tell you how to get a development env running:
-
-Step 1 :
-
-Step 2 : 
-
-And repeat until end
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-
-
-
+ Git clone https://github.com/Saptarshi2001/EditorZ.git
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system.
+If you want to deploy the application locally, you can create an executable JAR file using Maven or Gradle. You can then run your application by typing ./EditorZ.jar where EditorZ is the name of your artifact. The directory containing the JAR is used as your application’s working directory,
 
 ## Built With
 
