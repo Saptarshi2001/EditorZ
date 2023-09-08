@@ -59,7 +59,7 @@ If you want to deploy the application locally, you can create an executable JAR 
 
 ## Author
 
-* **Saptarshi Dutta** - *Initial work* - [GithubUsername](https://github.com/Saptarshi2001)
+* **Saptarshi Dutta** - (https://github.com/Saptarshi2001)
 
 See also the list of [contributors](https://github.com/your/repo/contributors) who participated in this project.
 
