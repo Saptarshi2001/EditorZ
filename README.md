@@ -1,2 +1,85 @@
 # EditorZ
-A text editor for fast development
+
+Project Description: A text editor designed to make your workflow fast.
+
+## Features
+
+- **File Handling**: Perform various file operations such as:
+  - **New**: Start a fresh text document.
+  - **Open**: Import an existing text document into the editor.
+  - **Save**: Preserve your current work in the form of a text document.
+  - **Save As**: Save the current document under a new name.
+  - **Preview**: Feature to be coming soon.
+  - **Print-Preview**: Feature to be coming soon
+  - **Print**:Feature to be coming soon
+  -  **Exit**: Exit while also saving the document.
+    
+- **Editing Tools**: Powerful tools to streamline your editing process:
+  - **Cut**: Remove and copy the selection to the clipboard.
+  - **Copy**: Copy the selected text to the clipboard.
+  - **Paste**: Insert the content of the clipboard at the cursor position.
+  - **Undo**: Revert the last textual action.
+  - **Redo**: Reapply an action that was previously undone.
+  
+- **Time Management**: Keep track of time as you work:
+  - **Date/Time**: Display the current date and time.
+
+- **Search Tools**: Easily navigate even the biggest text files:
+  - **Find**: Feature to be coming soon
+  - **Find Next**: Feature to be coming soon
+  
+- **Color Customizability**:
+    - **Color**: Personalize your text editing experience by changing the background color of the edit as 
+                 per your preference.
+    - **Font**-Feature to be coming soon
+      
+-   **All these along with key bindings that you use on other text editors like vim or emacs**:
+       
+# These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+    For example,
+    - Java Development Kit (JDK)
+    - Java 7 or higher
+    - Any Java IDE
+
+### Installing
+
+A step-by-step series of examples that tell you how to get a development env running:
+
+Step 1 :
+
+Step 2 : 
+
+And repeat until end
+
+End with an example of getting some data out of the system or using it for a little demo.
+
+
+
+
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system.
+
+## Built With
+
+* [Java](https://www.oracle.com/java/) - Java.
+* Libary used-   Java Swing
+
+## Author
+
+* **Saptarshi Dutta** - *Initial work* - [GithubUsername](https://github.com/Saptarshi2001)
+
+See also the list of [contributors](https://github.com/your/repo/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Contributions
+
+* This project will be further developed.Feel free to contribute to it as we further move along.
+
