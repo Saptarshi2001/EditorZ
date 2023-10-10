@@ -42,7 +42,7 @@ Project Description: A text editor designed to make your workflow fast.
     For example,
     - Java Development Kit (JDK)
     - Java 7 or higher
-    - Any Java IDE
+    - IDE-Netbeans,InteliiJ,VsCode 
 
 ### Installing
 
