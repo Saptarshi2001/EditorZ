@@ -20,18 +20,18 @@ EditorZ is a text editor built to ensure fast workflows. It contains keybindings
   - **Paste (ctrl-v)**: Insert the content of the clipboard at the cursor position.
   - **Undo (ctrl-u)**: Revert the last textual action.
   - **Redo (ctrl-r)**: Reapply an action that was previously undone.
-  - **Delete (ctrl-d)**:
-  - **Find (ctrl-f)**: Find a certain word or letter in your document.
-  - **Replace (ctrl-r)**: replace a word or letter with something else.
-  - **Go-to (ctrl-g)**: Go to a certain line in the document.
-  - **Date/Time (ctrl-m)**: Display the current date and time.
-  - **Select-All (ctrl-p)**:Select the entire content in the document
+  - **Delete (ctrl-d)**:Delete the selected text 
+  - **Find (ctrl-n)**: Find a certain word or letter in your document.
+  - **Replace (ctrl-f)**: replace a word or letter with something else.
+  - **Go-to (ctrl-h)**: Go to a certain line in the document.
+  - **Date/Time (ctrl-g)**: Display the current date and time.
+  - **Select-All (ctrl-m)**:Select the entire content in the document
     
 - **Color Customizability**:
-    - **background (alt-c)**: change the background color of the screen as per your preference.
-    - **Font (alt-f)**- change the font of the text as per your preference.
-    - **Wrap-text (alt-w)**- wrap the text of the screen.
-    - **Foreground (alt-o)**- change the foreground color of the screen as per your preference.
+    - **background**: change the background color of the screen as per your preference.
+    - **Font**- change the font of the text as per your preference.
+    - **Wrap-text**- wrap the text of the screen.
+    - **Foreground**- change the foreground color of the screen as per your preference.
       
 ### Prerequisites
 
@@ -44,7 +44,7 @@ EditorZ is a text editor built to ensure fast workflows. It contains keybindings
 - git clone https://github.com/Saptarshi2001/EditorZ.git
 - Compile the java program using java MainEditor.java
 - Run the jar executable
-- You can also build using Maven or gradle
+- Build the project using Maven
 
 ## License
 
