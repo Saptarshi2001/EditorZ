@@ -1,9 +1,10 @@
 # EditorZ
 
 EditorZ is a text editor built to ensure fast workflows. It contains keybindings like other editors(vim,emacs) that enable users to maintain their flow during work.
- 
-## Keybindings
+  
+[demo1.webm](https://github.com/user-attachments/assets/def84cc7-8d4c-4d81-88f0-daf1f892fe50)
 
+## Keybinding
 - **File Handling**: Perform various file operations such as:
   - **New(alt-n)**: Start a fresh text file.
   - **Open (alt-o)**: Import an existing text document into the editor.
