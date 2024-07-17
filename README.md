@@ -2,7 +2,11 @@
 
 EditorZ is a text editor built to ensure fast workflows. It contains keybindings like other editors(vim,emacs) that enable users to maintain their flow during work.
   
-[demo1.webm](https://github.com/user-attachments/assets/def84cc7-8d4c-4d81-88f0-daf1f892fe50)
+
+
+https://github.com/user-attachments/assets/45a926af-7978-433d-819d-4c05f92aeec5
+
+
 
 
 
